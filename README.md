@@ -1,5 +1,5 @@
 ## Data Science - computer vision
-### based on "The Computer Vision Workshop" (Packt, 2020)
+#### based on "The Computer Vision Workshop" (Packt, 2020)
 
 1. [numpy1.ipynb](https://github.com/psrozek/data-science-2/blob/main/numpy1.ipynb)
   * basic arrays

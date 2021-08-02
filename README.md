@@ -11,3 +11,8 @@
   * invert image
   * join images
   * matplotlib.pyplot, plt.imshow, plt.show
+
+3. [opencv2.ipynb](https://github.com/psrozek/data-science-2/blob/main/opencv2.ipynb)
+  * array translation with numpy
+  * rotation, resizing, affine transformation, perspective transformation with opencv
+  * image addition and multiplication

@@ -16,3 +16,9 @@
   * array translation with numpy
   * rotation, resizing, affine transformation, perspective transformation with opencv
   * image addition and multiplication
+
+4. [opencv3.ipynb](https://github.com/psrozek/data-science-2/blob/main/opencv3.ipynb)
+  * binary images, cv2.threshold
+  * bitwise operations on images, cv2.bitwise_xor
+  * masking, np.where
+

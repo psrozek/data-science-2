@@ -22,3 +22,8 @@
   * bitwise operations on images, cv2.bitwise_xor
   * masking, np.where
 
+5. [opencv4.ipynb](https://github.com/psrozek/data-science-2/blob/main/opencv4.ipynb)
+  * histograms
+  * plt.hist, ravel()
+  * cv2.calcHist, selectROI
+
